@@ -6,7 +6,7 @@ const SignUp = () => {
         <div class="container1">
             <div class="signup-box">
                 <h2>Sign Up</h2>
-                <form>
+                <form action='./login'>
                     <div class="input-box">
                         <input type="text" name="name" required />
                         <label>Name</label>
